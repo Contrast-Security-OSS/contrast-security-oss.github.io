@@ -1,0 +1,43 @@
+.site-header {
+  background-color: #292929;
+}
+
+.site-header a {
+  color: white;
+}
+
+.logo-image {
+  height: 26px;
+}
+
+a.btn-outline-secondary {
+  background-color: #3CC3B2;
+  border-color: #3CC3B2;
+  color: white;
+}
+
+h1, h2, h3 {
+  font-family: "Roboto" !important;
+}
+
+h2.section-title {
+  color: #0da1a9;
+  font-weight: bold;
+}
+
+p { 
+  font-family: "Lato" !important;
+}
+
+.contrastron {
+  padding: 0px !important;
+}
+
+.contrastron-sub {
+  padding: 0px !important;
+}
+
+.ide-icon {
+  height: 100px;
+  width: 100px;
+}
