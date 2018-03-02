@@ -30,6 +30,11 @@ p.lead {
   font-size: 14px;
 }
 
+p.item-lead {
+  height: 80px;
+  margin: 0px 3px;
+}
+
 p { 
   font-family: "Lato" !important;
 }
@@ -37,6 +42,29 @@ p {
 .contrastron {
   padding: 0px !important;
   margin: 0px !important;
+  background-color: #3ABFAE !important;
+  background: url('../img/dna-pattern.png') repeat;
+  background-size: 300px;
+}
+
+h2.contrastron-headline {
+  font-size: 54px !important;
+  line-height: 54px !important;
+  text-transform: uppercase !important;
+  text-align: center !important;
+  font-weight: bold !important;
+  color: #fff;
+  font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif !important;
+}
+
+p.contrastron-lead {
+  font-size: 26px !important;
+  line-height: 36px !important;
+  color: #000 !important;
+  font-weight: normal !important;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif !important;
 }
 
 .contrastron-sub {
