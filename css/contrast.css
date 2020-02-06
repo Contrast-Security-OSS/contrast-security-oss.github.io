@@ -76,10 +76,36 @@ p.contrastron-lead {
   width: 50px;
 }
 
-.ide-icon-big {
-  height: 120px;
-  width: 120px;
+.ide-icon-med {
+  height: 70px;
+  width: 70px;
 }
+
+.ide-icon-wide {
+  height: 100px;
+  width: 160px;
+}
+
+.ide-icon-tall {
+  height: 170px;
+  width: 100px;
+}
+
+.ide-icon-big {
+  height: 100px;
+  width: 100px;
+}
+
+.ide-icon-wow {
+  height: 100px;
+  width: 100px;
+}
+
+.ide-icon-huge {
+  height: 155px;
+  width: 155px;
+}
+
 
 div.section-header {
   margin-top: 20px;
