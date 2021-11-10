@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcontrast_dev=self.webpackChunkcontrast_dev||[]).push([[9112],{3759:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/video","name":"video","count":1,"permalink":"/blog/tags/video"}')}}]);

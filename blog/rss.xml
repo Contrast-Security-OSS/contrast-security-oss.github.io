@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Contrast DevSec Blog</title>
+        <link>https://contrastsecurity.dev/blog</link>
+        <description>Contrast DevSec Blog</description>
+        <lastBuildDate>Thu, 07 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Capture the Flag, Solution Write-Up]]></title>
+            <link>https://contrastsecurity.dev/blog/CTF Write-Up</link>
+            <guid>CTF Write-Up</guid>
+            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Contrast Labs is our security research team, writing the rules that power Contrast's suite of tools. A lot of our research starts with vulnerability analysis, reading and understanding how different exploits work at an API level and how we can detect that: during code analysis with Contrast Scan or as the application runs with Contrast Assess.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Securing and Exploiting Java Applications]]></title>
+            <link>https://contrastsecurity.dev/blog/Bangladesh JUG</link>
+            <guid>Bangladesh JUG</guid>
+            <pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Really excited to speak at the Bangladesh Java User Group with Bazlur and Oronno.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Journey to Jakarta Podcast]]></title>
+            <link>https://contrastsecurity.dev/blog/Podcast - Jakarta EE</link>
+            <guid>Podcast - Jakarta EE</guid>
+            <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discussion about the modernization of Jakarta EE applications from the older Java EE form, including backwards-compatibility as well as forwards-excitement about cool new developments like Microprofile.]]></description>
+        </item>
+    </channel>
+</rss>
